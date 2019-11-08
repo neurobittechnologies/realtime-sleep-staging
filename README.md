@@ -1,6 +1,6 @@
 # Real-time sleep staging and intervention
 ### Getting started with z3score real time module
-![N|Solid](https://s3.amazonaws.com/www.neurobit.io/img/realtime/demo-screenshot.PNG)
+![](realtime-scoring.gif)
 
 ### Overview:
 Z3Score provides a cloud-based architecture to carry out low latency real time sleep staging over the cloud to design cutting edge intervention and neurofeedback experiments and products. Potential applications include:
