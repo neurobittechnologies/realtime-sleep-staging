@@ -1,4 +1,10 @@
 # Real-time sleep staging and intervention
+### New
+Added support for real-time scoring using heart rate variability (HRV)  
+Please check realtime_hrv_demo.ipynb  
+Note: real time scoring for EEG is as accurate as offline scoring, but for HRV module  
+real-time scoring is less accurate than offline scoring
+
 ### Getting started with z3score real time module
 ![](realtime-scoring.gif)
 
